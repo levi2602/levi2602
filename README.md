@@ -1,4 +1,4 @@
-Hello there!
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/Hello%20there!)
+
 
 
